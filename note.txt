@@ -1,0 +1,10 @@
+ color
+	nb #0f2656
+	sb  #008aff
+	red  #f15767
+
+	pink  #fdebed
+
+	green #ebf9f4
+
+	yellow #fff7e8
